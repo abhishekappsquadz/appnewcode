@@ -1,0 +1,725 @@
+/******************* new footer ****************************/
+
+.new_footer{
+	background-color: #E0E0E0;
+	}
+	.new_footer .letbuild h2{
+	color: #000;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	font-family: "proxima_novalight";
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: center;
+	
+	}
+	.new_footer .emailid-block a{
+	border-radius: 60px;
+	background: transparent;
+	border: 1px solid rgb(24, 102, 177) !important;
+	}
+	.new_footer .sparater-block{
+	background-color: rgba(236, 25, 14, 0.1);
+	}
+	.new_footer .emailid-block a span.small-text{
+	color: #000;
+	}
+	.new_footer .emailid-block.voicemsg a span.small-text{
+	color: #000;
+	}
+	/* / .new_footer .form-group .captcha{} / */
+	.new_footer .emailid-block a span.large-text{
+	color: #000;
+	}
+	.new_footer .from-right-block .form-group.btn-row-block{
+	text-align: center;
+	}
+	.new_footer .emailid-block a:hover{
+	background-color: rgb(24, 102, 177); 
+	color: #fff;
+	}
+	.new_footer .emailid-block a:hover span.small-text {
+	color: #fff;
+	}
+	.new_footer .emailid-block a:hover span.large-text{
+	color: #fff;
+	}
+	.new_footer .block-emailid a i{
+	background: none;
+	padding: 0px 44px 18px 0;
+	font-size: 30px;
+	}
+	.new_footer .emailid-block.voicemsg {
+	background-color: transparent;
+	}
+	.new_footer .emailid-block a span.large-text{color: #000;}
+	.new_footer .form-group .comman-btn{float: none}
+	.new_footer .from-right-block{
+	border: 4px solid #1866b1;
+	}
+	.new_footer .block-emailid a i{
+	height: 35px;
+	}
+	/*********************************** last footer ******************************/
+	.my_fsect .footer-part1 a {
+	font-family: 'proxima_novalight';
+	}
+	.my_fsect #footer-part1{
+	width: auto;
+	}
+
+	
+/****************************android game and wearable page*******************/
+.pre_right h5{
+	color: #c6541f;
+	font-size: 24px;
+	margin-top: 10px;
+	}
+	.base_wear li{
+	text-align: justify;
+	}
+	.we_offer .to_bil{
+	margin: 0px 22px 22px 22px;
+	}
+	.we_offer ul, ol {
+	padding: 8px 16px 16px 16px;
+	}
+	.pre_right p{
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Circular Std Book';
+	text-align: justify;
+	padding-right: 10px;
+	}
+	.mobile-solution.wear_app ul li{
+	width: 18%;
+	}
+	.development-processz-block h1,h2{
+	color: #fff;
+	}
+	/ .wea_dom.row h2{margin-bottom:-30px;} /
+	.wear_app{
+	padding: 0% 5% 5%; 5%
+	}
+	.custom-navbar .navigation .new_btn a{
+	/ border: 2px solid #fff; /
+	background-color: none !important;
+	}
+	.custom-navbar .navigation .new_btn a:hover{
+	border:  2px solid transparent;
+	background-color: rgb(0, 131, 254);
+	color: #fff;
+	}
+	.wea_dom h2{
+	margin-bottom: 5%;
+	padding-top: 0px;
+	font-family: inherit;
+	}
+	.talk_and{
+	margin-top: 0px !important;
+	}
+	.gme_app ul li{
+	font-size: 17px;
+	width: 100%;
+	text-align: initial;
+	}
+	.game_and h2{
+	font-size: 25px;
+	color: #151515;
+	margin: 10px 0 15px;
+	padding-top: 8%;
+	font-family: inherit;
+	}
+	.gme_app{
+	margin-left: 10px;
+	}
+	.gme_app .to_bil{
+	padding: 5px 0px 0px 0px;
+	}
+	.andr_game h2{
+	margin-bottom: 0px;
+	font-family: inherit;
+	}
+	.creat_gm h4{
+	color: #c6541f;
+	text-align: left;
+	margin-left: 1%;
+	}
+	.creat_gm p{
+	color: #fff;
+	text-align: justify;
+	padding-left: 1%;
+	font-size: 17px;
+	font-family: 'Circular Std Book';
+	}
+	.gm_tech{
+	margin: 5% 0% 0% 0%;
+	}
+	.gm_tech .u_btn{
+	width: 15%;
+	font-size: 20px;
+	}
+	.gm_tech ol li{
+	font-size: 20px;
+	padding: 10px;
+	color: #00060a;
+	}
+	.gm_tech ol li a{
+	font-size: 20px;
+	padding: 10px;
+	color: #1866b1;
+	font-family: 'Circular Std Book';
+	}
+	.depl_tech h2{
+	padding-top: 0px;
+	font-family: inherit;
+	}
+	.game_future{
+	text-align: left;
+	}
+	.gem_trend{
+	background-color: #2a3a4a;
+	}
+	.gem_trend h5{
+	color: #c6541f;
+	font-size: 18px;
+	margin-top: 17px;
+	}
+	.gem_trend p{
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Circular Std Book';
+	text-align: justify;
+	}
+	.gem_trend .to_bil{
+	margin: 0px;
+	}
+	.gem_trend .bill_pay h2{
+	margin-left: 10px;
+	}
+	.vis_gam{
+	margin: 0 auto;
+	padding-left: 25px;
+	}
+	.game_tech h2{
+	font-family: inherit;
+	}
+	.wht_tab h2{
+	font-family: inherit;
+	margin-bottom: 3%;
+	}
+	.wear_tab {
+	padding-top: 40px;
+	padding-bottom: 3%;
+	}
+	.btn-section_work a:hover{
+	background-color: #1866b1;
+	text-decoration: underline;
+	border: 1px solid #1866b1;
+	}
+	.iphon_wy{
+	display: inline-block;
+	}
+	.iph_tri ul li{
+	width: 18%;
+	}
+	.ifo_beh h2{
+	margin-left: 5%;
+	}
+	.iphone_apli h2{
+	color: #fff; 
+	margin-top: -15px;
+	font-style: none;
+	}
+	.ifo_craft{
+	background-color: #162d42;
+	}
+	.ifo_right{
+	background-color: #fff;
+	}
+	.ifo_reach h1{
+	color: #000;
+	}
+	.ifo_reach ul li{
+	color: #000;
+	}
+	
+	.animated3 h3{
+	color: #fff;
+	font-size: 35px;
+	font-family: "proxima_novalight";
+	font-weight: 900;
+	}
+	.gm_visi li{
+	color: #fff;
+	}
+	.deliv_exc h3{
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: "proxima_novalight";
+	font-weight: 900;
+	}
+	.main-content-block h3{
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-top: 0px;
+	margin-bottom: 14px;
+	font-family: "proxima_novalight";
+	font-weight: 900;
+	color: #000;
+	}
+	
+	.main-content-block .equal{
+	margin-bottom: 14px;
+	}
+	.chatSolution h3{
+	font-size: 35px;
+	text-transform: uppercase;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "proxima_novalight";
+	font-weight: 900;
+	}
+	.and_roid h3{
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "proxima_novalight";
+	font-weight: 900;
+	}
+	.and_dev_foot{
+	background-color: #1765b0;
+	color: #fff;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 45px;
+	margin: 0;	
+    z-index: 9999999;
+	}
+	.and_dev_foot .sky_dev p{
+	margin-top: 15px;
+	font-size: 17px;
+	font-family: sans-serif;
+	font-weight: 600;
+	}
+	.and_dev_foot .sky_dev p a{
+	color: #fff;
+	font-size: 23px;
+	}
+	.so_icon ul li a{
+	display: inline-block;
+	float: left;
+	padding: 2px;
+	list-style-type: none;
+	}
+	.so_icon .social-icon-block ul{
+	margin-top: 0px;
+	}
+	.so_icon .social-icon-block ul li{
+	padding: 5px 2px;
+	}
+	.so_icon .social-icon-block ul li a{
+	width: 32px;
+	height: 33px;
+	line-height: 33px;
+	color: rgba(255, 255, 255, 0.5);
+	display: inline-block;
+	text-align: center;
+	font-size: 12px;
+	border-radius: 30px;
+	background-color: #142331;
+	}
+	
+	.so_icon .social-icon-block ul li a i{
+	color: #fff;
+	}
+	.sky_dev p span{
+	padding-left: 12px;
+	}
+	
+	/********************* my new style *******************************/
+	
+	.so_icon .social-icon-block ul li a.facebook:hover{
+	background-color: #1866b1;
+	} 
+	.so_icon .social-icon-block ul li a.twitter:hover{
+	background-color: #1da1f2;
+	} 
+	.so_icon .social-icon-block ul li a.gplus:hover{
+	background-color: #d34836;
+	} 
+	.so_icon .social-icon-block ul li a.lin:hover{
+	background-color: #0077B5;
+	} 
+	.so_icon .social-icon-block ul li a.youtube:hover{
+	background-color: #FF0000;
+	} 
+	.so_icon .social-icon-block ul li a.instagram:hover{
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+	} 
+	.so_icon .social-icon-block ul li a.behance:hover{
+	background-color: #0057ff;
+	} 
+	
+	.and_dev_foot .sl_appsqd p{
+	margin-top: 7px;
+	}  
+	.fadeInUp h3{
+	color: #fff;
+	}
+	.an-android h3{
+	color: #000;
+	}
+	.pre_solu h3{
+	color: #000;
+	}
+	
+	.android-bg{
+	width: 100%;
+	height: 100%;
+	background-image: url(../../media/content/texture/wave-bg-grey.png);
+	}
+	.b-features-column:hover{
+	-webkit-transition: 2s; /* Safari */
+	transition: 2s;
+	-ms-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+	}
+	
+	/***************** 17-04-18 ***********************************/
+	.flow_events .application-option ul li{
+	width: 720px;
+	}
+	.flow_events{
+	background: none;
+	/* padding: 30px 0 0px 0;
+	min-height: inherit; */
+	background-image: transparent;
+	}
+	.flo_of{
+	background-image: url(../media/flow_events.jpg);
+	}
+	.flow_events .tablist-block ul li div.center-block{
+	height: 153px;
+	}
+	.flow_events .development-tabing-block .tablist-block ul li div.center-block{
+	width: 75%;
+	border-radius: 50%;
+	}
+	
+	/* .tablist-block .nav *{
+	position: relative;
+	z-index: 20;
+	} */
+	
+	.of_desc h3{
+		text-align: center;
+		color: #fe6263;
+		font-size: 30px;
+		font-size: 25px;
+		margin-top: 40px;
+		text-transform: capitalize;
+	}
+	
+	
+	.flow_events .tablist-block .nav::after{
+	content: "";
+	width: calc( 100% - 120px );
+	height: 2px;
+	background-color: white;
+	display: block;
+	left: 50%;
+	bottom: 70px;
+	position: absolute;
+	z-index: -1;
+	transform: translate(-50%, 0);
+	}
+	.flow_events .tablist-block ul li:before{
+	width: 0%;
+	}
+	.flow_events .tablist-block ul li div.center-block a span{
+	margin-top: 0px;
+	}
+	
+	/* .flow_events .tablist-block ul li div.center-block:active{
+		background: #fe6263;
+		display: block;
+	} */
+	
+	/***************** 17-04-18 ***********************************/
+	.flow_events .application-option ul li{
+		width: 720px;
+	}
+	.flow_events{
+		background: none;
+		/* padding: 30px 0 0px 0;
+		min-height: inherit; */
+		background-image: transparent;
+	}
+	.flo_of{
+		background-image: url(../media/flow_events.jpg);
+	}
+	.flow_events .tablist-block ul li div.center-block{
+		height: 153px;
+	}
+	.flow_events .development-tabing-block .tablist-block ul li div.center-block{
+		width: 75%;
+		border-radius: 50%;
+	}
+	
+	/* .tablist-block .nav *{
+		position: relative;
+		z-index: 20;
+	} */
+	
+	.flow_events .tablist-block .nav::after{
+		content: "";
+		width: calc( 100% - 120px );
+		height: 2px;
+		background-color: white;
+		display: block;
+		left: 50%;
+		bottom: 70px;
+		position: absolute;
+		z-index: -1;
+		transform: translate(-50%, 0);
+	}
+	.flow_events .tablist-block ul li:before{
+		width: 0%;
+	}
+	.flow_events .tablist-block ul li div.center-block a span{
+		margin-top: 0px;
+		font-family: "proxima_novalight";
+		color: #fff;
+	}
+	
+	 .flow_events .development-tabing-block .tablist-block ul li.active div.center-block a span{
+		 display: none;
+	 }
+	.flow_events .transition img{
+		width: 50%;
+		/* margin-bottom: 15px; */
+	}
+	/* .active, .flow_events .center-block:hover {
+		background-color: #666;
+		color: white;
+		
+	} */
+	
+	
+	 .new_comp .animated3 p{
+		margin-top: 30px;
+	 }
+	 .new_comp .connectBtn{
+		 margin-top: 30px;
+	 }
+	 .get_proj{
+		background: transparent !important;
+		position: relative;
+		font-family: "proxima_novalight";
+		font-size: 18px;
+	 }
+	 .pb-content-block p.ur_and{
+		background-color: transparent;
+		border: none;
+	 }
+	.ur_and a{
+			color: #fff !important;
+		text-decoration: none;
+		font-family: "proxima_novalight";
+		border-bottom: 1px solid #fff !important;
+		padding-bottom: 4px;
+		font-size: 22px;
+		font-weight: 800;
+	}
+	.pb-content-block p.ur_and:hover{
+		background: transparent !important;
+	} 
+	.pb-content-block p.ur_and a:hover{
+		color: #fe6263 !important;
+		border-bottom: 1px solid #fe6263 !important;
+	}
+	.new_our{
+		margin-top: 10px;
+	}
+	
+	 .get_proj:hover{
+		background: transparent !important;
+	}
+	.new_comp {
+		z-index: 99;
+	}
+	 .get_proj:hover:before {
+		left: 0;
+		right: auto;
+		width: 100%;
+		overflow:hidden;
+		/* border: 1px solid #fff !important;
+		border-radius: 5px; */
+	}
+	
+	
+	 .get_proj:before {
+		content: "";
+		height: 100%;
+		width: 0;
+		display: block;
+		position: absolute;
+		z-index: -1;
+		left: auto;
+		right: 0%;
+		top: 0;
+		background: #1765b0;
+		-webkit-transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1);
+		-o-transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1);
+		transition: all 1.5s cubic-bezier(0.42, 0, 0.58, 1);
+		overflow:hidden;
+		
+	}
+	
+	.banner-blocks{
+		position: relative;
+		left: 0;
+		height: 165px;
+	}
+	
+	.banner-blocks > ul{
+		position: absolute;
+		width: fit-content;
+		top: 100px;
+		left: 50%;
+		transform: translateX(-50%);
+		border-bottom: none;
+		text-align: center;
+	}
+	
+	.banner-blocks > ul > li{
+	
+	}
+	
+	.banner-blocks > ul > li img{
+		width: 58px !important;
+		margin-top: 0px;
+	}
+	
+	.banner-block-active{
+		background-color: #fe6263 !important;
+	}
+	
+	.banner-blocks > ul > li .center-block{
+		background-color: #1765b0;
+		width: 130px !important;
+		height: 130px;
+		padding: 37px;
+		margin: 0 36px;
+		border-radius: 50%;
+		transition: 0.1s all linear;
+	}
+	
+	.banner-blocks > ul::after{
+		content: "";
+		display: block;
+		width: 71%;
+		height: 2px;
+		z-index: -1;
+		background-color: white;
+		position: absolute;
+		top: 68px;
+		right: 50%;
+		transform: translateX(50%);
+	}
+	
+	.requestquate{		
+		width: 100%;
+		float: right;
+		min-height: 300px;
+		margin-bottom: 28px;
+		left: 5px;
+	}
+	.req_form .reqtext{
+		background: #fe6364;
+		font-size: 22px;
+		padding: 10px;
+	}
+	.req_form form{
+		width: 300px;
+		background: transparent;
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		khtml-border-radius: 5px;
+		margin: auto;
+		min-height: 464px;
+		border: 1px solid #fe6364;
+	}
+	.req_form form .requestquateinner{	
+		padding: 20px 15px;
+	}
+	.req_form .requestquateinner .reqtext {
+		font-size: 28px;
+		text-align: center;
+		font-family: "proxima_novalight";
+		padding: 0 0 5px;
+		color: #fff;
+		margin: 0;
+	}
+	.req_form .requestquateinner .reqtext span {
+		font-size: 20px;
+	}
+	.req_form form{
+		margin-top: 127px;
+	}
+	.req_form .requestquateinner p {
+		color: #fff;
+		font-size: 11px;
+		margin: 0 0 5px;
+	}
+	.req_form .request_19{
+		height: 50px;
+	}
+	.req_form .requestquateinner input[type=text],select {
+		padding: 12px 30px 12px 14px;
+		font-size: 13px;
+		color: #242424;
+		width: 100%;
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		khtml-border-radius: 5px;
+		border: 1px solid #c5c5c5;
+		margin: 0 0 13px;
+		line-height: 22px;
+	}
+	.req_form .requestquateinner input[type=button]{
+		width: 270px;
+		border: none;
+		height: 64px;
+		cursor: pointer;
+		margin-top: 4px;
+	}
+	.req_form .requestquateinner textarea {
+		padding: 14px 30px 14px 14px;
+		font-size: 13px;
+		color: #242424;
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		khtml-border-radius: 5px;
+		border: 1px solid #fff;
+		width: 100%;
+	}
+	.req_form .btn_subm{
+		transform: translateX(79%);
+		width: 36%;
+		font-size: 18px;
+		margin-top: 10px;
+		color: #000;
+	}
+	/* --------------------------------------------------------------------------------------------- */
+	/* --------------------------------------------------------------------------------------------- */
+	/* --------------------------------------------------------------------------------------------- */
+	/* --------------------------------------------------------------------------------------------- */
+	/* --------------------------------------------------------------------------------------------- */
